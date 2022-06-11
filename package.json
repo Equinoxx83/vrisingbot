@@ -2,5 +2,23 @@
   "dependencies": {
     "discord.js": "^13.8.0",
     "dotenv": "^16.0.1"
-  }
+  },
+  "name": "vrisingtchat",
+  "version": "1.0.0",
+  "description": "tchat",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Equinoxx83/vrisingbot.git"
+  },
+  "author": "MmeJuliette",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Equinoxx83/vrisingbot/issues"
+  },
+  "homepage": "https://github.com/Equinoxx83/vrisingbot#readme"
 }
